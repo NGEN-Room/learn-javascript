@@ -24,6 +24,8 @@ You fall into a trap! Game over.
 - Add a second variable: `hasKey = true` or `false`
 - Add a locked door check using `if (hasKey)`
 - Turn this into a mini choose-your-own-path experience
+- **Challenge yourself:** Try using `prompt()` to ask the user for a direction!  
+  👉 *Search "javascript prompt()" to see how it works*
 
 ---
 
