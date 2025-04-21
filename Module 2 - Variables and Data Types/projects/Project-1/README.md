@@ -1,7 +1,7 @@
 # Project – Basic Calculator
 
 ## 🧠 Goal:
-Build a simple calculator that adds two numbers using variables.
+Build a script that simulates a mini calculator for addition, subtraction, multiplication and division, while introducing how variables work.
 
 ---
 
@@ -11,6 +11,17 @@ Build a simple calculator that adds two numbers using variables.
 2. Declare two variables: `num1`, `num2`
 3. Add them together and store in a new variable `sum`
 4. Print the result using `console.log()`
+5. now do this for subtraction, multiplication and division. 
+6. run these using `console.log()` to see if your code works
+
+---
+
+## 🧪 Example Output:
+
+Welcome to SimpleCalc!
+Your numbers: 8 and 3
+Sum: 11
+Difference: 5
 
 ---
 
@@ -24,3 +35,6 @@ Build a simple calculator that adds two numbers using variables.
 ## ▶️ How to Run
 Link your script to `index.html` and open it in your browser.  
 Use `console.log()` to display results in the DevTools console.
+
+
+
