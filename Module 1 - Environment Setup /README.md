@@ -49,6 +49,14 @@ console.log("Welcome to JavaScript!");
 
 ---
 
+## ✍️ run your first console.log
+- in your terminal run
+```bash
+node script.js
+```
+- make sure your terminal is in the correct directory
+
+---
 ## 🧠 Key Concepts
 
 - `console.log()` outputs messages to the browser’s dev tools
