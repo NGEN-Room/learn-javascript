@@ -1,0 +1,35 @@
+<!-- 1. Create an HTML file with:
+   - A heading `<h1 id="greeting">Hello</h1>`
+   - A paragraph `<p id="note">Today’s date is...</p>`
+
+2. In your script:
+   - Change the greeting to your name
+   - Update the paragraph to show a short welcome message
+   - Change the heading color to your favorite color -->
+
+<!DOCTYPE html>
+<html lang="en">    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Basics</title>
+    <style>
+        #Greeting {
+            color: rgb(38, 199, 111);
+        }
+    </style>
+</head>
+<body>
+    <h1 id="Name">Henlo Guy!</h1>
+   <p id="Greeting ">Im Liam, Welcome to my insane html doc</p>
+    <script>
+
+        document.getElementById("Name").innerHTML = "Liam";
+
+        document.getElementById("Greeting").innerHTML = "Welcome to my insane html doc!";
+
+        document.getElementById("Name").style.color = "rgb(38, 199, 111)";
+    </script>
+</body>
+</html> 
+   
