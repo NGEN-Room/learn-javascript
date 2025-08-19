@@ -15,8 +15,8 @@ In this module, you’ll learn how to declare variables in JavaScript and unders
 ## ✍️ Code Examples
 
 ```javascript
-let name = "Aroha";
-const age = 16;
+const name = "Aroha";
+let age = 16;
 let isStudent = true;
 
 console.log(typeof name);  // string
