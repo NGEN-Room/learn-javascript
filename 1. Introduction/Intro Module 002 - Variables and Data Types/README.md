@@ -45,4 +45,4 @@ console.log(typeof isStudent); // boolean
 
 ## 📘 FreeCodeCamp Companion
 
-👉 [Basic JavaScript: Declare JavaScript Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript: Declare JavaScript Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)

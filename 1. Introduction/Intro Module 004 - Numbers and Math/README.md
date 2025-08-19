@@ -44,4 +44,4 @@ console.log("Random number:", random);
 
 ## 📘 FreeCodeCamp Companion
 
-👉 [Basic JavaScript: Math and Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript: Math and Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)

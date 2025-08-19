@@ -80,4 +80,4 @@ node script.js
 
 To reinforce what you’ve learned, try these interactive lessons:
 
-👉 [Basic JavaScript – FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript – FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)

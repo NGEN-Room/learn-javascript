@@ -45,4 +45,4 @@ console.log(message.includes("Script")); // true
 
 ## 📘 FreeCodeCamp Companion
 
-👉 [Basic JavaScript: String Operations](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript: String Operations](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
