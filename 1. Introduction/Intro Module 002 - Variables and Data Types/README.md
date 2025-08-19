@@ -2,6 +2,10 @@
 
 In this module, you’ll learn how to declare variables in JavaScript and understand the different data types used in coding.
 
+## 🌍 What is a Variable?
+
+Think of a variable like a labelled box. You can put something in the box (a value), check what’s inside, or replace it later.
+
 ---
 
 ## 💡 What You'll Learn
@@ -15,6 +19,10 @@ In this module, you’ll learn how to declare variables in JavaScript and unders
 ## ✍️ Code Examples
 
 ```javascript
+var oldWay = "We don’t really use this anymore"; // avoid using var
+```
+
+```javascript
 const name = "Aroha";
 let age = 16;
 let isStudent = true;
@@ -22,6 +30,12 @@ let isStudent = true;
 console.log(typeof name);  // string
 console.log(typeof age);   // number
 console.log(typeof isStudent); // boolean
+```
+
+```javascript
+let score = 10;     // number
+score = "ten";      // now it's a string!
+console.log(typeof score); // string
 ```
 
 ---
@@ -37,11 +51,13 @@ console.log(typeof isStudent); // boolean
 
 ## ✅ Checklist
 
-- [ ] I used `let` and `const` to declare variables
-- [ ] I know at least 3 primitive data types
-- [ ] I used `typeof` to inspect a value
+- [ ] I created a variable with `let`.  
+- [ ] I created a variable with `const`.  
+- [ ] I used `typeof` to check what kind of value I stored.  
+- [ ] I know that variables are like boxes that can hold different things.  
 
 ---
+
 
 ## 📘 FreeCodeCamp Companion
 
