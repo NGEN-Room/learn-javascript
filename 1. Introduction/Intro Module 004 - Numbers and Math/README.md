@@ -2,6 +2,11 @@
 
 In this module, you'll learn how to perform calculations and use built-in math tools in JavaScript.
 
+## 🌍 What is a Number?
+
+JavaScript numbers can be whole numbers (integers) or decimals (floating point).  
+Example: `42`, `3.14`
+
 ---
 
 ## 💡 What You'll Learn
@@ -22,6 +27,14 @@ console.log(`Total: $${total}`);
 
 let random = Math.floor(Math.random() * 10); // 0–9
 console.log("Random number:", random);
+
+// Modulo example
+console.log(10 % 3); // 1 (remainder after division)
+
+// Rounding examples
+console.log(Math.floor(4.7)); // 4
+console.log(Math.ceil(4.2));  // 5
+console.log(Math.round(4.5)); // 5
 ```
 
 ---
@@ -36,9 +49,10 @@ console.log("Random number:", random);
 
 ## ✅ Checklist
 
-- [ ] I used basic arithmetic operations
-- [ ] I used `Math.round()`, `Math.random()` or similar
-- [ ] I created a result using variables
+- [ ] I used `+ - * / %` to do math in JavaScript.  
+- [ ] I tried rounding numbers with `Math.floor()`, `Math.ceil()`, and `Math.round()`.  
+- [ ] I generated a random number.  
+- [ ] I used variables to store and calculate a result.  
 
 ---
 
