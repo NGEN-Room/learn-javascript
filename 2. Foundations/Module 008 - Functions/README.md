@@ -55,4 +55,4 @@ functionName(arguments);
 
 ## 📘 FreeCodeCamp Companion
 
-👉 [Basic JavaScript: Write Reusable Code with Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript: Write Reusable Code with Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)

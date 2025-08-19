@@ -66,4 +66,4 @@ if (somethingElse) continue;
 
 ## 📘 FreeCodeCamp Companion
 
-👉 [Basic JavaScript: Use Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript: Use Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)

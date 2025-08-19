@@ -63,4 +63,4 @@ for (let i = 0; i < arr.length; i++) {
 
 ## 📘 FreeCodeCamp Companion
 
-👉 [Basic JavaScript: Manipulate Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript: Manipulate Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)

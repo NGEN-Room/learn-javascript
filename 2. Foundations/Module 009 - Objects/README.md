@@ -58,4 +58,4 @@ obj["key2"]    // bracket notation
 
 ## 📘 FreeCodeCamp Companion
 
-👉 [Basic JavaScript: Use Objects to Store Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript: Use Objects to Store Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)

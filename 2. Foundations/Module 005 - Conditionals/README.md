@@ -66,4 +66,4 @@ switch (color) {
 
 ## 📘 FreeCodeCamp Companion
 
-👉 [Basic JavaScript: Use Conditional Logic](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+👉 [Basic JavaScript: Use Conditional Logic](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
