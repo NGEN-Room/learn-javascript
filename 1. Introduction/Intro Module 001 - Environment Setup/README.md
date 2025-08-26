@@ -92,10 +92,10 @@ node script.js
 
 ## ✅ Checklist
 
-- [ ] I wrote my first line of JavaScript!  
-- [ ] I opened the DevTools console and saw my output.  
-- [ ] I linked my JavaScript file to HTML successfully.  
-- [ ] I ran my code in Node.js (optional).  
+- [✅] I wrote my first line of JavaScript!  
+- [✅] I opened the DevTools console and saw my output.  
+- [✅] I linked my JavaScript file to HTML successfully.  
+- [X] I ran my code in Node.js (optional).  
 
 ---
 

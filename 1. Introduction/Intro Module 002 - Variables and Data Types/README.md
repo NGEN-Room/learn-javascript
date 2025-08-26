@@ -51,10 +51,10 @@ console.log(typeof score); // string
 
 ## ✅ Checklist
 
-- [ ] I created a variable with `let`.  
-- [ ] I created a variable with `const`.  
-- [ ] I used `typeof` to check what kind of value I stored.  
-- [ ] I know that variables are like boxes that can hold different things.  
+- [✅ ] I created a variable with `let`.  
+- [✅ ] I created a variable with `const`.  
+- [✅ ] I used `typeof` to check what kind of value I stored.  
+- [✅ ] I know that variables are like boxes that can hold different things.  
 
 ---
 
