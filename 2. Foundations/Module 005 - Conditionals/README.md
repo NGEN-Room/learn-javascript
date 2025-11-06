@@ -58,9 +58,9 @@ switch (color) {
 
 ## ✅ Checklist
 
-- [ ] I used `if`, `else`, and `else if` to check conditions
-- [ ] I used `===`, `>`, `<`, or `!==` in comparisons
-- [ ] I tried a `switch` statement
+- [✅ ] I used `if`, `else`, and `else if` to check conditions
+- [✅ ] I used `===`, `>`, `<`, or `!==` in comparisons
+- [✅ ] I tried a `switch` statement
 
 ---
 
